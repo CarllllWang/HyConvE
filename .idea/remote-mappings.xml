@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteMappingsManager">
+    <list>
+      <list>
+        <remote-mappings server-id="python@sftp://zirui@127.0.0.1:6000/home/zirui/.conda/envs/reason/bin/python3.8">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$" remote-root="/tmp/pycharm_project_327" />
+            </list>
+          </settings>
+        </remote-mappings>
+        <remote-mappings server-id="python@sftp://wcx@127.0.0.1:6000/home/wcx/anaconda3/envs/hypergraph/bin/python3.9">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$" remote-root="/tmp/pycharm_project_831" />
+            </list>
+          </settings>
+        </remote-mappings>
+      </list>
+    </list>
+  </component>
+</project>
